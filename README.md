@@ -33,3 +33,4 @@ Here is a video of the actual system in action translating the words Hello and t
 {insert video}
 
 ## Conclusion
+This project has taught me a lot about South African Sign Language and the pressing issues that are present within such a minority group, I have gained experience in deep learning and creating real time prediction systems whilst tackling this project. Overall this project was a massive success and also gained a lot of attention at our universities IT showcase. I believe we have the capabilities and technology to create systems to help bridge the gap of communication between the deaf community and the rest of South Africa.
