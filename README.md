@@ -13,7 +13,7 @@ For this project because I am working with sequential data in the form of frames
 
 The Model was trained over 1000 epochs using a custom TensorFlow callback to stop the training after a certain classification accuracy, loss, validation classification accuracy, and validation loss had been reached which I determined to be a classification accuracy of 0.95 and a loss of 0.1. The system only took {enter amount epochs} to train and ended up with a validation classification accuracy of {} and a validation loss of {} as shown here below:
 
-<img src="https://github.com/Tylikestocode/SASL_Translation/assets/107248071/21e43ed5-65a5-457a-b7c0-96dd2caed79d" width="400" height="400">
+<img src="https://github.com/Tylikestocode/SASL_Translation/assets/107248071/21e43ed5-65a5-457a-b7c0-96dd2caed79d" width="400" height="50">
 
 
 The model was evaluated using the following metrics:
