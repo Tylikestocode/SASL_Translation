@@ -7,5 +7,6 @@ The Data Collection Process involved me my webcam and a designated spot to captu
 
 ![Untitled video - Made with Clipchamp](https://github.com/Tylikestocode/SASL_Translation/assets/107248071/1ddb2c64-0bce-4494-89d2-8269e6230acf)
 ## Model Creation and Evaluation 
+For this project because I am working with sequential data in the form of frames and sign language often works in sequences I decided to Implement a Long-Short Term Memory Neural Network to handle this complex task. I created a Deep layered LSTM neural network consisting of 4
 ## Model in Action
 ## Conclusion
