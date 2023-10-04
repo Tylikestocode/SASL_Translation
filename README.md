@@ -24,8 +24,9 @@ The results of the confusion matrix where graphed and showed the following resul
 
 <img src="https://github.com/Tylikestocode/SASL_Translation/assets/107248071/e4336914-2cb0-4076-9d25-51d8ae2f2314" width="400">
 
-The accuracy score of the model was as follows over 10 k folds of cross-validation:
-{inser accuracy score}
+The accuracy score of the model was as follows:
+
+<img src="https://github.com/Tylikestocode/SASL_Translation/assets/107248071/c1a1d162-2cf3-4faa-9b4b-f657695e9373" width="400">
 
 ## Model in Action
 Here is a video of the actual system in action translating the words Hello and then Braai. I have chosen to add braai to one of the phrases as it is a South African tradition that many of us South Africans enjoy and know it is something that is uniquely special to South Africa and a key indicator to indicate that this is indeed a specialized sign language detection system. 
