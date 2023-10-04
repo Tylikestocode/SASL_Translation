@@ -11,5 +11,21 @@ For this project because I am working with sequential data in the form of frames
 
 <img src="https://github.com/Tylikestocode/SASL_Translation/assets/107248071/fe508a35-89a4-4677-9bb6-3fde794b49b9" width="400">
 
+The Model was trained over 1000 epochs using a custom TensorFlow callback to stop the training after a certain classification accuracy, loss, validation classification accuracy, and validation loss had been reached which I determined to be a classification accuracy of 0.95 and a loss of 0.1. The system only took {enter amount epochs} to train and ended up with a validation classification accuracy of {} and a validation loss of {} as shown here below:
+{insert image}
+
+The model was evaluated using the following metrics:
+1. Confusion Matrix
+2. Accuracy Score
+
+The results of the confusion matrix where graphed and showed the following results:
+{insert confusion matrix photo} 
+
+The accuracy score of the model was as follows over 10 k folds of cross-validation:
+{inser accuracy score}
+
 ## Model in Action
+Here is a video of the actual system in action translating the words Hello and then Braai. I have chosen to add braai to one of the phrases as it is a South African tradition that many of us South Africans enjoy and know it is something that is uniquely special to South Africa and a key indicator to indicate that this is indeed a specialized sign language detection system. 
+{insert video}
+
 ## Conclusion
