@@ -21,7 +21,8 @@ The model was evaluated using the following metrics:
 2. Accuracy Score
 
 The results of the confusion matrix where graphed and showed the following results:
-{insert confusion matrix photo} 
+
+<img src="<img src="https://github.com/Tylikestocode/SASL_Translation/assets/107248071/21e43ed5-65a5-457a-b7c0-96dd2caed79d" width="400">
 
 The accuracy score of the model was as follows over 10 k folds of cross-validation:
 {inser accuracy score}
