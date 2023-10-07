@@ -30,7 +30,8 @@ The accuracy score of the model was as follows:
 
 ## Model in Action
 Here is a video of the actual system in action translating the words Hello and then Braai. I have chosen to add braai to one of the phrases as it is a South African tradition that many of us South Africans enjoy and know it is something that is uniquely special to South Africa and a key indicator to indicate that this is indeed a specialized sign language detection system. 
-{insert video}
+
+https://github.com/Tylikestocode/SASL_Translation/assets/107248071/eb17876b-92aa-40ae-b780-7c4845860faf
 
 ## Conclusion
 This project has taught me a lot about South African Sign Language and the pressing issues that are present within such a minority group, I have gained experience in deep learning and creating real time prediction systems whilst tackling this project. Overall this project was a massive success and also gained a lot of attention at our universities IT showcase. I believe we have the capabilities and technology to create systems to help bridge the gap of communication between the deaf community and the rest of South Africa.
