@@ -29,7 +29,7 @@ The accuracy score of the model was as follows:
 <img src="https://github.com/Tylikestocode/SASL_Translation/assets/107248071/c1a1d162-2cf3-4faa-9b4b-f657695e9373" width="400">
 
 ## Model in Action
-Here is a video of the actual system in action translating the words Hello and then Braai. I have chosen to add braai to one of the phrases as it is a South African tradition that many of us South Africans enjoy and know it is something that is uniquely special to South Africa and a key indicator to indicate that this is indeed a specialized sign language detection system. 
+Here is a video of the actual system in action translating the phrases Hello, How are you, and then Braai. I have chosen to add braai to one of the phrases as it is a South African tradition that many of us South Africans enjoy and know it is something that is uniquely special to South Africa and a key indicator to indicate that this is indeed a specialized sign language detection system. 
 
 https://github.com/Tylikestocode/SASL_Translation/assets/107248071/eb17876b-92aa-40ae-b780-7c4845860faf
 
