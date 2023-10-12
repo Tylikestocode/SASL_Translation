@@ -15,7 +15,6 @@ The Model was trained over 1000 epochs using a custom TensorFlow callback to sto
 
 <img src="https://github.com/Tylikestocode/SASL_Translation/assets/107248071/21e43ed5-65a5-457a-b7c0-96dd2caed79d" width="400" height="15">
 
-
 The model was evaluated using the following metrics:
 1. Confusion Matrix
 2. Accuracy Score
