@@ -74,7 +74,7 @@ with mp_holistic.Holistic(min_detection_confidence=0.5, min_tracking_confidence=
             predictions.append(np.argmax(res))
             
             
-        #3. Viz logic
+        #Vizualization Logic
             if np.unique(predictions[-10:])[0]==np.argmax(res): 
                 if res[np.argmax(res)] > threshold: 
                     
